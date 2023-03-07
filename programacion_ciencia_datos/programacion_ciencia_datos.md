@@ -31,3 +31,11 @@ thanks:
 ### Que es la ciencia de datos?
 
 incorpora diversos grados de ingeniería de datos, método científico, matemáticas, estadísticas, computación avanzada, visualización, mentalidad de hacker y experiencia de area de conocimiento especifica.
+
+### Proceso de la ciencia de datos
+
+1. Obtención de los datos
+2. Transformación y limpieza de los datos
+3. Exploración, análisis y visualización
+4. Creación de modelos
+5. Implementación del modelo
