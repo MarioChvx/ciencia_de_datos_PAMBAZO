@@ -1,0 +1,10 @@
+name: datasc
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipykernel
+prefix: /home/porto/anaconda3/envs/datasc
