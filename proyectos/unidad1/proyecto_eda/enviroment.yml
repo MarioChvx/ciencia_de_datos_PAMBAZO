@@ -2,9 +2,10 @@ name: eda_prog
 channels:
   - defaults
 dependencies:
-  - numpy
-  - pandas
   - matplotlib
+  - numpy
   - seaborn
+  - pandas
   - ipykernel
+  - scipy
 prefix: ~/anaconda3/envs/eda_prog
