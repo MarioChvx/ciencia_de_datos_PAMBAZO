@@ -1,4 +1,4 @@
-name: datasc
+name: eda_prog
 channels:
   - defaults
 dependencies:
@@ -7,4 +7,4 @@ dependencies:
   - matplotlib
   - seaborn
   - ipykernel
-prefix: /home/porto/anaconda3/envs/datasc
+prefix: ~/anaconda3/envs/datasc
