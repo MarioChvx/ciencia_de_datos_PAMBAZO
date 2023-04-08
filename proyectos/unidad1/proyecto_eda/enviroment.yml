@@ -7,4 +7,4 @@ dependencies:
   - matplotlib
   - seaborn
   - ipykernel
-prefix: ~/anaconda3/envs/datasc
+prefix: ~/anaconda3/envs/eda_prog
